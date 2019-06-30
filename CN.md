@@ -413,6 +413,6 @@ Now we can compute the reward for each block:
 
 ![1559066526598](images/1559066526598.png)
 
-The two cases differ only in the edge cases. The first case guarantees that the total reward issued in epoch *i* + 1 will not exceed R(*i* + 1).
+The two cases differ only in the edge cases. The first case guarantees that the total reward issued in epoch *i* + 1 will not exceed R(*i* + 1)。
 
 这两种情况仅在边缘情况上有所不同。 第一种情况保证在周期(epoch) *i* + 1 中发布的总奖励不会超过 R(*i* + 1)。
